@@ -1,5 +1,3 @@
-// require('dotenv').config()
-const dotenv = require('dotenv')
 const fetch = require('node-fetch')
 
 exports.handler = async () => {
